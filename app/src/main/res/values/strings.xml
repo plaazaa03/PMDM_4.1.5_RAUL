@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenRecyclerView</string>
+    <string name="mensaje">Selecciona dispositivos navegar por Internet</string>
+    <string name="btnLabel">Aceptar</string>
+    <string name="msgInicial">Para navegar en Internet utilizas </string>
+    <string name="noSeleccion">No has seleccionado ninguna opción</string>
+    <string name="dispositivo">Dispositivo</string>
+</resources>
