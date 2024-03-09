@@ -18,7 +18,7 @@
 
     <Button
         android:id="@+id/btnAceptar"
-        style="@style/Widget.Material3.Button.TonalButton"
+        style="@style/Base.Theme.PMDM_415_Raul"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
